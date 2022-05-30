@@ -1,6 +1,9 @@
 import React from "react";
 
+
 const AddProduct = () => {
+  
+  
   // TODO: Remove below const and instead import them from chakra
   const Button = () => <div />;
   const Modal = () => <div />;

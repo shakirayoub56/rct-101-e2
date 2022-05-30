@@ -1,6 +1,9 @@
 import React from "react";
+// import Product from"./Product";
 
-const Product = () => {
+
+const Product = (props) => {
+  console.log(props)
   // TODO: Remove below const and instead import them from chakra
   const Text = () => <div />;
   const Image = () => <div />;
